@@ -1,4 +1,4 @@
-## Hi, I'm Natália Oliveira
+<h1> Hi, I'm Natália Oliveira </h1>
 
 - 🔭 work with backend
 - 🌱 currently studying c#
@@ -10,9 +10,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliaoliveiradearaujo97&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
-  <h2>Languages and Tools:</h2>
-  
   <div style="display: inline_block" align="center"><br>
+    <h3>Languages and Tools:</h3>
     <img align="center" alt="csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
     <img align="center" alt="dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg">
     <img align="center" alt="dotnetcore" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
@@ -34,6 +33,7 @@
   <br />
   
   <div align="center">
+    <h3>Contact:</h3>
     <a href="https://instagram.com/nataliaoliveiradearaujo97" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:nataliaoliveiradearaujo@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">     </a>
     <a href="https://www.linkedin.com/in/natália-oliveira-723151123/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
