@@ -1,14 +1,16 @@
-## Olá, sou a Natália Oliveira
+## Hi, I'm Natália Oliveira
 
-- 🔭 Hoje trabalho com back-end 
-- 🌱 Estudando C#
-- 😄 Pronouns: ela/dela
+- 🔭 work with backend
+- 🌱 currently studying c#
+- 😄 Pronouns: she/her
 
 <div align="center">
   <a href="https://github.com/nataliaoliveiradearaujo97">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nataliaoliveiradearaujo97&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliaoliveiradearaujo97&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
+  
+  <h2>Languages and Tools:</h2>
   
   <div style="display: inline_block" align="center"><br>
     <img align="center" alt="csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
