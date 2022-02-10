@@ -1,4 +1,4 @@
-## Hello, Sou a Natália Oliveira
+## Olá, sou a Natália Oliveira
 
 - 🔭 Hoje trabalho com back-end 
 - 🌱 Estudando C#
